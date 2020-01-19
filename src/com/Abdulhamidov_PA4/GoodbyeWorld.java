@@ -1,0 +1,7 @@
+package com.Abdulhamidov_PA4;
+
+public class GoodbyeWorld {
+    public static void main(String[] args) {
+        System.out.printf("Goodbye, World!");
+    }
+}
